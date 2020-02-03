@@ -96,4 +96,5 @@ A list of digital things related to the field of Chinese studies curated by Kwok
 - [Python](https://github.com/vinta/awesome-python#readme)
 - [R](https://github.com/qinwf/awesome-R)
 - [R Books](https://github.com/RomanTsegelskyi/rbooks#readme)
-## Research Guide
+## Research Guides
+- [East Asian Digital Scholarship Lab (at the Harvard-Yenching Library)](https://guides.library.harvard.edu/EADH)
