@@ -80,7 +80,10 @@ A list of digital things related to the field of Chinese studies curated by Kwok
 - [The Research Center for Digital Humanities(NTU) | 臺灣大學數位恩文研究中心](http://www.digital.ntu.edu.tw/en/)
 - [East Asian Digital Scholarship Lab](https://guides.library.harvard.edu/EADH)
 - [「數位人文學」研究室簡介](http://www3.ihp.sinica.edu.tw/dhrctw/index.php)
-## Social Media
+## Social Media and Blogs
+### Blogs or Personal Websites
+- [Donald Sturgeon](https://dsturgeon.net/)
+- [Paul Vierthaler](https://www.pvierth.com/)
 ### Facebook
 - [Digital Humanities Virtual Lab | 數位人文實驗室](https://www.facebook.com/DHVirtualLab/)
 ### Twitter
