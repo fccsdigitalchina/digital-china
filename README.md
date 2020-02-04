@@ -102,3 +102,4 @@ A list of digital things related to the field of Chinese studies curated by Kwok
 - [R Books](https://github.com/RomanTsegelskyi/rbooks#readme)
 ## Research Guides
 - [East Asian Digital Scholarship Lab (at the Harvard-Yenching Library)](https://guides.library.harvard.edu/EADH)
+- [Research Guide for Chinese Studies (Harvard-Yenching Library)](https://guides.library.harvard.edu/Chinese)
