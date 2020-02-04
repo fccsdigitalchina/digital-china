@@ -23,6 +23,7 @@ A list of digital things related to the field of Chinese studies curated by Kwok
 ### Text
 - [CBETA | 中華電子佛典協會](http://www.cbeta.org/)
 - [Chinese Text Project | 中國哲學書電子化計劃](https://ctext.org/)
+- [CrossAsia Fulltext Search](https://crossasia.org/service/crossasia-lab/crossasia-itr/)
 - [Guoxuedashi | 国学大师](http://www.guoxuedashi.com/)
 - [Hytung Books | 瀚堂典藏](https://www.hytung.cn/)
 - [Kanseki Repository (Kanripo)](https://www.kanripo.org/)
