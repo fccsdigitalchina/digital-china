@@ -12,6 +12,7 @@ A list of digital things related to the field of Chinese studies curated by Kwok
 - [Platforms](#platforms) 
 - [Research Units](#research-units)
 - [Social Media](#social-media)
+	- [Blogs or Personal Websites](#blogs-or-personal-websites)
 	- [Facebook](#facebook)
 	- [Twitter](#twitter)
 	- [WeChat](#wechat)
