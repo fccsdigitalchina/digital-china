@@ -68,6 +68,7 @@ A list of digital things related to the field of Chinese studies curated by Kwok
 - [韻典網](https://ytenx.org/)
 - [繁簡姬](https://zhconvert.org/)
 ## Platforms
+- [China Data Lab](https://projects.iq.harvard.edu/chinadatalab)
 - [Docusky Collaboration Platform | DocuSky數位人文學術研究平台](https://docusky.org.tw/DocuSky/ds-01.home.html)
 - [Manc.hu | 满文学习网](https://manc.hu/zh)
 - [MARKUS | 碼庫思](http://dh.chinese-empires.eu/beta/)
