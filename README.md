@@ -98,6 +98,7 @@ A list of digital things related to the field of Chinese studies curated by Kwok
 - [零壹Lab](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzIxMzYwOTAyMw==&mid=2247483824&idx=2&sn=0b30a0d0c22ab80b09ed686928b3e55a&send_time=)
 ## Related Awesome Lists
 - [Digital History](https://github.com/maehr/awesome-digital-history#readme)
+- [IIIF](https://github.com/IIIF/awesome-iiif)
 - [Network Analysis](https://github.com/briatte/awesome-network-analysis#readme)
 - [Public Datasets](https://github.com/awesomedata/awesome-public-datasets#readme)
 - [Python](https://github.com/vinta/awesome-python#readme)
