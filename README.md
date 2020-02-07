@@ -80,7 +80,7 @@ A list of digital things related to the field of Chinese studies curated by Kwok
 ## Research Units
 - [Academia Sinica Center for Digital Cultures | 中央研究院數位研究中心](https://ascdc.sinica.edu.tw/index.jsp)
 - [Alliance of Digital Humanities Organization](http://adho.org/)
-- [The Research Center for Digital Humanities(NTU) | 臺灣大學數位恩文研究中心](http://www.digital.ntu.edu.tw/en/)
+- [The Research Center for Digital Humanities(NTU) | 臺灣大學數位人文研究中心](http://www.digital.ntu.edu.tw/en/)
 - [East Asian Digital Scholarship Lab](https://guides.library.harvard.edu/EADH)
 - [「數位人文學」研究室簡介](http://www3.ihp.sinica.edu.tw/dhrctw/index.php)
 ## Social Media and Blogs
