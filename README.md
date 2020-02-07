@@ -85,6 +85,7 @@ A list of digital things related to the field of Chinese studies curated by Kwok
 - [「數位人文學」研究室簡介](http://www3.ihp.sinica.edu.tw/dhrctw/index.php)
 ## Social Media and Blogs
 ### Blogs or Personal Websites
+- [ChinaFile | 中参馆](http://www.chinafile.com/)
 - [Donald Sturgeon](https://dsturgeon.net/)
 - [Paul Vierthaler](https://www.pvierth.com/)
 ### Facebook
