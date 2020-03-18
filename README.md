@@ -85,7 +85,7 @@ A list of digital things related to the field of Chinese studies curated by Kwok
 - [Palladio](http://hdlab.stanford.edu/palladio/)
 - [The ARTFL Project(PhiloLogic4)](https://artfl-project.uchicago.edu/)
 - [中央研究院數位人文研究平臺](https://dh.ascdc.sinica.edu.tw/)
-- [数字人文人工智能平台（华东师范大学）]（http://dhrc.ecnu.edu.cn/dhaip）
+- [数字人文人工智能平台（华东师范大学）](http://dhrc.ecnu.edu.cn/dhaip）
 - [数字方志集成平台（华东师范大学图书馆）](http://dhrc.ecnu.edu.cn/dhaip)
 ## Portal
 - [RISE and SHINE](https://rise.mpiwg-berlin.mpg.de/)
