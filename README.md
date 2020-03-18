@@ -71,6 +71,7 @@ A list of digital things related to the field of Chinese studies curated by Kwok
 ## Digial Museums
 - [Beijing Digital Museum | 北京数字博物馆](http://www.chnmuseum.cn/Portals/0/web/vr/)
 - [Emperor Qinshihuang's Mausoleum Site Museum | 秦始皇帝陵博物馆](http://www.bmy.com.cn/)
+- [Links to Taiwanese digital museums](https://jamesclear.com/atomic-habits)
 - [中国国家博物馆数字展厅](http://www.chnmuseum.cn/Portals/0/web/vr/) 
 - [孔庙和国子监博物馆](http://www.kmgzj.com/index.aspx)
 ## Pedagogy
