@@ -94,7 +94,7 @@ A list of digital things related to the field of Chinese studies curated by Kwok
 - [Alliance of Digital Humanities Organization](http://adho.org/)
 - [The Research Center for Digital Humanities(NTU) | 臺灣大學數位人文研究中心](http://www.digital.ntu.edu.tw/en/)
 - [East Asian Digital Scholarship Lab](https://guides.library.harvard.edu/EADH)
-- [「數位人文學」研究室簡介](http://www3.ihp.sinica.edu.tw/dhrctw/index.php)
+- [「數位人文學」研究室](http://www3.ihp.sinica.edu.tw/dhrctw/index.php)
 ## Social Media and Blogs
 ### Blogs or Personal Websites
 - [ChinaFile | 中参馆](http://www.chinafile.com/)
