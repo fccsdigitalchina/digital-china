@@ -2,13 +2,13 @@
 A list of digital things related to the field of Chinese studies curated by Kwok-leong Tang, the Digital China Fellow of [the Fairbank Center for Chinese Studies](https://fairbank.fas.harvard.edu/). The list loosely follows the ["Awesome List"](https://github.com/sindresorhus/awesome) style. You are welcome to email your suggestions for change to [Kwok-leong](mailto://kwokleongtang@fas.harvard.edu).
 
 ## Contents
-
 - [Databases](#databases)
 	- [Text](#text)
 	- [People](#people)
 	- [Places](#places)
 - [Dictionaries](#dictionaries)
 - [Digital Collections](#digital-collections)
+- [Digital Museums](#digital-museums)
 - [Platforms](#platforms) 
 - [Research Units](#research-units)
 - [Social Media](#social-media)
@@ -54,10 +54,6 @@ A list of digital things related to the field of Chinese studies curated by Kwok
 - [Authority Database of Buddhist Tripitaka Catalogues (DILA) | 佛經目錄規範資料庫（法鼓山）](http://authority.dila.edu.tw/catalog/)
 - [Ming Government Official Titles: the crowd-translation project](https://mingofficialtitles.lib.uci.edu/#/)
 - [清代職官資料庫](http://archive.ihp.sinica.edu.tw/officerc/officerkm2)
-## Digital Collections
-- [Academia Sinica Digital Archives | 中央研究院數位典藏](https://sinica.digitalarchives.tw/)
-- [Digital East Asia Collections of the Bavarian State Library](https://ostasien.digitale-sammlungen.de/)
-- [Rare Books Collection of the Harvard-Yenching Library](https://curiosity.lib.harvard.edu/chinese-rare-books)
 ## Dictionaries
 - [Chinese-English Dictionary of Modern Usage | 林語堂《當代漢英詞典》](http://humanum.arts.cuhk.edu.hk/Lexis/Lindict/)
 - [Handian | 漢典](https://www.zdic.net/)
@@ -67,6 +63,19 @@ A list of digital things related to the field of Chinese studies curated by Kwok
 - [缺字系統](http://char.iis.sinica.edu.tw/index.htm)
 - [韻典網](https://ytenx.org/)
 - [繁簡姬](https://zhconvert.org/)
+## Digital Collections
+- [Academia Sinica Digital Archives | 中央研究院數位典藏](https://sinica.digitalarchives.tw/)
+- [Digital East Asia Collections of the Bavarian State Library](https://ostasien.digitale-sammlungen.de/)
+- [Rare Books Collection of the Harvard-Yenching Library](https://curiosity.lib.harvard.edu/chinese-rare-books)
+- [The International Dunhuang Project: The Silk Road Online](http://www.kmgzj.com/index.aspx)
+## Digial Museums
+- [Beijing Digital Museum | 北京数字博物馆](http://www.chnmuseum.cn/Portals/0/web/vr/)
+- [Emperor Qinshihuang's Mausoleum Site Museum | 秦始皇帝陵博物馆](http://www.bmy.com.cn/)
+- [中国国家博物馆数字展厅](http://www.chnmuseum.cn/Portals/0/web/vr/) 
+- [孔庙和国子监博物馆](http://www.kmgzj.com/index.aspx)
+## Pedagogy
+- [Asia for Educations](http://afe.easia.columbia.edu/)
+- [Taiwan e-Learning and Digital Archives Program | 數位典藏與數位學習](http://teldap.tw/en/index.html)
 ## Platforms
 - [China Data Lab](https://projects.iq.harvard.edu/chinadatalab)
 - [Docusky Collaboration Platform | DocuSky數位人文學術研究平台](https://docusky.org.tw/DocuSky/ds-01.home.html)
@@ -75,6 +84,8 @@ A list of digital things related to the field of Chinese studies curated by Kwok
 - [Palladio](http://hdlab.stanford.edu/palladio/)
 - [The ARTFL Project(PhiloLogic4)](https://artfl-project.uchicago.edu/)
 - [中央研究院數位人文研究平臺](https://dh.ascdc.sinica.edu.tw/)
+- [数字人文人工智能平台（华东师范大学）]（http://dhrc.ecnu.edu.cn/dhaip）
+- [数字方志集成平台（华东师范大学图书馆）](http://dhrc.ecnu.edu.cn/dhaip)
 ## Portal
 - [RISE and SHINE](https://rise.mpiwg-berlin.mpg.de/)
 ## Research Units
