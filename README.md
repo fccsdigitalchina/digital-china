@@ -69,6 +69,7 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 - [繁簡姬](https://zhconvert.org/)
 ## Digital Collections
 - [Academia Sinica Digital Archives | 中央研究院數位典藏](https://sinica.digitalarchives.tw/)
+- [China Visual Arts Project Archive at University of Westminster](https://westminster-atom.arkivum.net/index.php/cpc)
 - [Digital East Asia Collections of the Bavarian State Library](https://ostasien.digitale-sammlungen.de/)
 - [Rare Books Collection of the Harvard-Yenching Library](https://curiosity.lib.harvard.edu/chinese-rare-books)
 - [The International Dunhuang Project: The Silk Road Online](http://www.kmgzj.com/index.aspx)
