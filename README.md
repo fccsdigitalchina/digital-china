@@ -106,6 +106,7 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 - [ChinaFile | 中参馆](http://www.chinafile.com/)
 - [Donald Sturgeon](https://dsturgeon.net/)
 - [Paul Vierthaler](https://www.pvierth.com/)
+- [The Contemporary China Centre Blog (University of Westminister)](http://blog.westminster.ac.uk/contemporarychina/)
 ### Facebook
 - [Digital Humanities Virtual Lab | 數位人文實驗室](https://www.facebook.com/DHVirtualLab/)
 ### Twitter
