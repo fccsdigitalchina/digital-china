@@ -8,6 +8,8 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 	- [Text](#text)
 	- [People](#people)
 	- [Places](#places)
+	- [Law](#law)
+	- [Other](#other)
 - [Dictionaries](#dictionaries)
 - [Digital Collections](#digital-collections)
 - [Digital Museums](#digital-museums)
