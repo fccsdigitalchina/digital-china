@@ -79,6 +79,7 @@ A list of digital things related to the field of Chinese studies curated by Kwok
 - [Taiwan e-Learning and Digital Archives Program | 數位典藏與數位學習](http://teldap.tw/en/index.html)
 ## Platforms
 - [China Data Lab](https://projects.iq.harvard.edu/chinadatalab)
+- [CrossAsia](https://crossasia.org/)
 - [Docusky Collaboration Platform | DocuSky數位人文學術研究平台](https://docusky.org.tw/DocuSky/ds-01.home.html)
 - [Manc.hu | 满文学习网](https://manc.hu/zh)
 - [MARKUS | 碼庫思](http://dh.chinese-empires.eu/beta/)
