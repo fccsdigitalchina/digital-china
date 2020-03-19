@@ -54,11 +54,13 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 - [Buddhist Studies Time Authority Databases (DILA) | 時間規範資料庫（法鼓山）](http://authority.dila.edu.tw/time/)
 - [Chinese and Western Dates Mapping System(Later than Ming Dynasties) | 中西曆對照查詢系統（明清以降）](http://thdl.ntu.edu.tw/datemap/index.php)
 - [中央研究院計算中心兩千年中西曆轉換](https://sinocal.sinica.edu.tw/)
+### Law
+- [Database of Chinese Judicial Files (Jiangjin Part) | 中國司法檔案數據庫. 江津卷](http://jiangjin.datahistory.cn/pc/)
+- [中国司法案例网](https://anli.court.gov.cn/)
+- [中国裁判文书网](http://wenshu.court.gov.cn/)
 ### Other
 - [Authority Database of Buddhist Tripitaka Catalogues (DILA) | 佛經目錄規範資料庫（法鼓山）](http://authority.dila.edu.tw/catalog/)
 - [Ming Government Official Titles: the crowd-translation project](https://mingofficialtitles.lib.uci.edu/#/)
-- [中国司法案例网](https://anli.court.gov.cn/)
-- [中国裁判文书网](http://wenshu.court.gov.cn/)
 - [清代職官資料庫](http://archive.ihp.sinica.edu.tw/officerc/officerkm2)
 ## Dictionaries
 - [Chinese-English Dictionary of Modern Usage | 林語堂《當代漢英詞典》](http://humanum.arts.cuhk.edu.hk/Lexis/Lindict/)
