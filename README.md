@@ -31,7 +31,7 @@ A list of digital things related to the field of Chinese studies curated by Kwok
 - [大家藝文天地](http://ourartnet.com/)
 - [高校古文獻資源庫](http://rbsc.calis.edu.cn:8086/aopac/jsp/indexXyjg.jsp)
 - [全國漢籍データベース | 日本所藏中文古籍數據庫](http://kanji.zinbun.kyoto-u.ac.jp/kanseki?detail)
-- [臺灣文獻叢刊資料庫系統](tcss.ith.sinica.edu.tw)
+- [臺灣文獻叢刊資料庫系統](http://tcss.ith.sinica.edu.tw)
 ### People
 - [Biographical Dictionary of Chinese Christianity | 華典](http://bdcconline.net/en/)
 - [Buddhist Studies Person Authority Databases (DILA) | 人名規範資料庫（法鼓山）](http://authority.dila.edu.tw/person/)
