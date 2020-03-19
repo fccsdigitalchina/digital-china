@@ -38,7 +38,7 @@ A list of digital things related to the field of Chinese studies curated by Kwok
 - [Biogref](https://biogref.org/)
 - [Buddhist Studies Person Authority Databases (DILA) | 人名規範資料庫（法鼓山）](http://authority.dila.edu.tw/person/)
 - [China Biographical Database Project (CBDB) | 中國歷代人物傳記資料庫](https://projects.iq.harvard.edu/chinesecbdb)
-- [Eminent Chinese of the Ch'ing Period | 清代名人傳略](https://www.dartmouth.edu/~qing/WEB/)
+- [Eminent Chinese of the Ch'ing Period | 清代名人傳略](http://www.dartmouth.edu/~qing/WEB/)
 - [Ming Qing Women's Writings | 明清婦女著作](http://digital.library.mcgill.ca/mingqing/)
 - [人名權威人物資料傳記查詢](http://archive.ihp.sinica.edu.tw/ttsweb/html_name/index.php)
 ### Places
