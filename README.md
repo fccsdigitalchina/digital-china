@@ -127,4 +127,5 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 - [R Books](https://github.com/RomanTsegelskyi/rbooks#readme)
 ## Research Guides
 - [East Asian Digital Scholarship Lab (at the Harvard-Yenching Library)](https://guides.library.harvard.edu/EADH)
+- [People's Republic of China Legal Research](https://guides.library.harvard.edu/ChineseLegalResearch)
 - [Research Guide for Chinese Studies (Harvard-Yenching Library)](https://guides.library.harvard.edu/Chinese)
