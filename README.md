@@ -79,6 +79,7 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 - [Links to Taiwanese digital museums](https://jamesclear.com/atomic-habits)
 - [中国国家博物馆数字展厅](http://www.chnmuseum.cn/Portals/0/web/vr/) 
 - [孔庙和国子监博物馆](http://www.kmgzj.com/index.aspx)
+- [數位陶瓷博物館（鶯歌陶瓷博物館）](https://digital.ceramics.ntpc.gov.tw/index.htm#page1)
 ## Pedagogy
 - [Asia for Educations](http://afe.easia.columbia.edu/)
 - [Taiwan e-Learning and Digital Archives Program | 數位典藏與數位學習](http://teldap.tw/en/index.html)
