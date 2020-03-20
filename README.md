@@ -82,7 +82,9 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 ## Digial Museums
 - [Beijing Digital Museum | 北京数字博物馆](http://www.chnmuseum.cn/Portals/0/web/vr/)
 - [Emperor Qinshihuang's Mausoleum Site Museum | 秦始皇帝陵博物馆](http://www.bmy.com.cn/)
+- [Harvard Art Museum](https://www.harvardartmuseums.org/collections)
 - [Links to Taiwanese digital museums](https://jamesclear.com/atomic-habits)
+- [Museum of Fine Arts Boston](https://www.mfa.org/collections/asia)
 - [中国国家博物馆数字展厅](http://www.chnmuseum.cn/Portals/0/web/vr/) 
 - [孔庙和国子监博物馆](http://www.kmgzj.com/index.aspx)
 - [數位陶瓷博物館（鶯歌陶瓷博物館）](https://digital.ceramics.ntpc.gov.tw/index.htm#page1)
