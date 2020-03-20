@@ -4,6 +4,7 @@ A list of digital things related to the field of Chinese studies curated by Kwok
 Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier), [Christopher](https://twitter.com/chrisdecou).
 
 ## Contents
+- [Research Guides](#research-guides)
 - [Databases](#databases)
 	- [Text](#text)
 	- [People](#people)
@@ -21,8 +22,12 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 	- [Twitter](#twitter)
 	- [WeChat](#wechat)
 - [Related Awesome Lists](#related-awesome-lists)
-- [Research Guides](#research-guides)
 
+## Research Guides
+- [East Asian Art Research Guide (Harvard Library)](https://guides.library.harvard.edu/EastAsianArt)
+- [East Asian Digital Scholarship Lab (at the Harvard-Yenching Library)](https://guides.library.harvard.edu/EADH)
+- [People's Republic of China Legal Research (Harvard Law School Library)](https://guides.library.harvard.edu/ChineseLegalResearch)
+- [Research Guide for Chinese Studies (Harvard-Yenching Library)](https://guides.library.harvard.edu/Chinese)
 ## Databases
 ### Text
 - [CBETA | 中華電子佛典協會](http://www.cbeta.org/)
@@ -135,8 +140,3 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 - [Python](https://github.com/vinta/awesome-python#readme)
 - [R](https://github.com/qinwf/awesome-R)
 - [R Books](https://github.com/RomanTsegelskyi/rbooks#readme)
-## Research Guides
-- [East Asian Art Research Guide (Harvard Library)](https://guides.library.harvard.edu/EastAsianArt)
-- [East Asian Digital Scholarship Lab (at the Harvard-Yenching Library)](https://guides.library.harvard.edu/EADH)
-- [People's Republic of China Legal Research (Harvard Law School Library)](https://guides.library.harvard.edu/ChineseLegalResearch)
-- [Research Guide for Chinese Studies (Harvard-Yenching Library)](https://guides.library.harvard.edu/Chinese)
