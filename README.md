@@ -17,7 +17,7 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 - [Platforms](#platforms) 
 - [Research Units](#research-units)
 - [Social Media](#social-media)
-	- [Blogs or Personal Websites](#blogs-or-personal-websites)
+	- [Blogs and Websites](#blogs-and-websites)
 	- [Facebook](#facebook)
 	- [Twitter](#twitter)
 	- [WeChat](#wechat)
@@ -117,7 +117,8 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 - [East Asian Digital Scholarship Lab](https://guides.library.harvard.edu/EADH)
 - [「數位人文學」研究室](http://www3.ihp.sinica.edu.tw/dhrctw/index.php)
 ## Social Media and Blogs
-### Blogs or Personal Websites
+### Blogs and Websites
+- [Andrew S. Erickson](http://www.andrewerickson.com/)
 - [ChinaFile | 中参馆](http://www.chinafile.com/)
 - [China IPR | 中國知識產權](https://chinaipr.com/)
 - [China Law Translate](https://www.chinalawtranslate.com/en/)
