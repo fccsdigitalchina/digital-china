@@ -119,14 +119,17 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 ## Social Media and Blogs
 ### Blogs or Personal Websites
 - [ChinaFile | 中参馆](http://www.chinafile.com/)
+- [China IPR | 中國知識產權](https://chinaipr.com/)
+- [China Law Translate](https://www.chinalawtranslate.com/en/)
 - [Donald Sturgeon](https://dsturgeon.net/)
+- [NPC Observer](https://npcobserver.com/)
 - [Paul Vierthaler](https://www.pvierth.com/)
 - [Supreme People's Court Monitor | 最高人民法院观察](https://supremepeoplescourtmonitor.com/)
 - [The Contemporary China Centre Blog (University of Westminister)](http://blog.westminster.ac.uk/contemporarychina/) 
 ### Facebook
 - [Digital Humanities Virtual Lab | 數位人文實驗室](https://www.facebook.com/DHVirtualLab/)
 ### Twitter
-- [Digita China FCCS]()
+- [Digita China FCCS](https://twitter.com/DigiChinaFCCS)
 ### WeChat (Links to QRCode)
 - [比特人文](https://open.weixin.qq.com/qr/code?username=gh_6ec7183b6234)
 - [察言观数](https://open.weixin.qq.com/qr/code?username=gh_459d0f34fa03)
