@@ -110,6 +110,8 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 - [数字方志集成平台（华东师范大学图书馆）](http://dhrc.ecnu.edu.cn/dhaip)
 ## Portal
 - [RISE and SHINE](https://rise.mpiwg-berlin.mpg.de/)
+## Projects
+- [Chinese Maritime Customs project | 中国海关近代史研究项目](http://www.bristol.ac.uk/history/customs/)
 ## Research Units
 - [Academia Sinica Center for Digital Cultures | 中央研究院數位研究中心](https://ascdc.sinica.edu.tw/index.jsp)
 - [Alliance of Digital Humanities Organization](http://adho.org/)
