@@ -31,9 +31,12 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 - [People's Republic of China Legal Research (Harvard Law School Library)](https://guides.library.harvard.edu/ChineseLegalResearch)
 - [Research Guide for Chinese Studies (Harvard-Yenching Library)](https://guides.library.harvard.edu/Chinese)
 ## Databases
+### Databases Catalog
+- [Humanities & Social Science Database Catalog (HUSSCat) | 人文社科資料庫名錄檢索](http://husscat.hss.ntu.edu.tw/xmlui/)
 ### Text
 - [CBETA | 中華電子佛典協會](http://www.cbeta.org/)
 - [Chinese Text Project | 中國哲學書電子化計劃](https://ctext.org/)
+- [Chinese Ancient Texts Database (CHANT) | 漢達文庫](http://www.chant.org/)
 - [CrossAsia Fulltext Search (XAsia)](https://crossasia.org/service/crossasia-lab/crossasia-itr/)
 - [Guoxuedashi | 国学大师](http://www.guoxuedashi.com/)
 - [Hytung Books | 瀚堂典藏](https://www.hytung.cn/)
@@ -43,6 +46,7 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 - [大家藝文天地](http://ourartnet.com/)
 - [高校古文獻資源庫](http://rbsc.calis.edu.cn:8086/aopac/jsp/indexXyjg.jsp)
 - [全國漢籍データベース | 日本所藏中文古籍數據庫](http://kanji.zinbun.kyoto-u.ac.jp/kanseki?detail)
+- [寒泉](http://skqs.lib.ntnu.edu.tw/dragon/)
 - [臺灣文獻叢刊資料庫系統](http://tcss.ith.sinica.edu.tw)
 ### People
 - [Biographical Dictionary of Chinese Christianity | 華典](http://bdcconline.net/en/)
@@ -51,6 +55,7 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 - [China Biographical Database Project (CBDB) | 中國歷代人物傳記資料庫](https://projects.iq.harvard.edu/chinesecbdb)
 - [Eminent Chinese of the Ch'ing Period | 清代名人傳略](http://www.dartmouth.edu/~qing/WEB/)
 - [Ming Qing Women's Writings | 明清婦女著作](http://digital.library.mcgill.ca/mingqing/)
+- [Traditions of Exemplary Women | 列女傳](http://www2.iath.virginia.edu/xwomen/)
 - [人名權威人物資料傳記查詢](http://archive.ihp.sinica.edu.tw/ttsweb/html_name/index.php)
 - [中国思想与文化名家数据库](http://www.cnthinkers.com/thinkerweb/)
 ### Places
@@ -76,9 +81,11 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 ## Dictionaries
 - [Chinese-English Dictionary of Modern Usage | 林語堂《當代漢英詞典》](http://humanum.arts.cuhk.edu.hk/Lexis/Lindict/)
 - [Handian | 漢典](https://www.zdic.net/)
+- [MDBG](https://www.mdbg.net/chinese/dictionary)
 - [Moe Dictionary | 萌典](https://www.moedict.tw/)
 - [Pleco](https://www.pleco.com/)
 - [The Etymology of Nôm of Chinese Origin | 漢喃同源辭](http://han-viet.com/) 
+- [The Encyclopedia Dictionary of the Chinese Language | 中文大辭典](http://ap6.pccu.edu.tw/Dictionary/)
 - [重編國語辭典](http://dict.revised.moe.edu.tw/cbdic/)
 - [異體字字典](https://dict.variants.moe.edu.tw/)
 - [缺字系統](http://char.iis.sinica.edu.tw/index.htm)
