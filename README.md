@@ -52,6 +52,7 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 - [Eminent Chinese of the Ch'ing Period | 清代名人傳略](http://www.dartmouth.edu/~qing/WEB/)
 - [Ming Qing Women's Writings | 明清婦女著作](http://digital.library.mcgill.ca/mingqing/)
 - [人名權威人物資料傳記查詢](http://archive.ihp.sinica.edu.tw/ttsweb/html_name/index.php)
+- [中国思想与文化名家数据库](http://www.cnthinkers.com/thinkerweb/)
 ### Places
 - [Buddhist Studies Place Authority Databases | 地名規範資料庫（法鼓山）](http://authority.dila.edu.tw/place/)
 - [China Historical GIS](https://sites.fas.harvard.edu/~chgis/)
@@ -67,6 +68,7 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 - [Database of Chinese Judicial Files (Jiangjin Part) | 中國司法檔案數據庫. 江津卷](http://jiangjin.datahistory.cn/pc/)
 - [中国司法案例网](https://anli.court.gov.cn/)
 - [中国裁判文书网](http://wenshu.court.gov.cn/)
+- [中国审批案例数据库](http://www.chncase.cn/)
 ### Other
 - [Authority Database of Buddhist Tripitaka Catalogues (DILA) | 佛經目錄規範資料庫（法鼓山）](http://authority.dila.edu.tw/catalog/)
 - [Ming Government Official Titles: the crowd-translation project](https://mingofficialtitles.lib.uci.edu/#/)
