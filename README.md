@@ -161,3 +161,4 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 - [Python](https://github.com/vinta/awesome-python#readme)
 - [R](https://github.com/qinwf/awesome-R)
 - [R Books](https://github.com/RomanTsegelskyi/rbooks#readme)
+- [Research Tools](https://github.com/emptymalei/awesome-research)
