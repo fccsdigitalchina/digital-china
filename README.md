@@ -77,6 +77,8 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 - [Moe Dictionary | 萌典](https://www.moedict.tw/)
 - [Pleco](https://www.pleco.com/)
 - [The Etymology of Nôm of Chinese Origin | 漢喃同源辭](http://han-viet.com/) 
+- [重編國語辭典](http://dict.revised.moe.edu.tw/cbdic/)
+- [異體字字典](https://dict.variants.moe.edu.tw/)
 - [缺字系統](http://char.iis.sinica.edu.tw/index.htm)
 - [韻典網](https://ytenx.org/)
 - [繁簡姬](https://zhconvert.org/)
@@ -85,7 +87,6 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 - [China Visual Arts Project Archive at University of Westminster](https://westminster-atom.arkivum.net/index.php/cpc)
 - [Digital East Asia Collections of the Bavarian State Library](https://ostasien.digitale-sammlungen.de/)
 - [Rare Books Collection of the Harvard-Yenching Library](https://curiosity.lib.harvard.edu/chinese-rare-books)
-- [The International Dunhuang Project: The Silk Road Online](http://www.kmgzj.com/index.aspx)
 ## Digial Museums
 - [Beijing Digital Museum | 北京数字博物馆](http://www.chnmuseum.cn/Portals/0/web/vr/)
 - [Emperor Qinshihuang's Mausoleum Site Museum | 秦始皇帝陵博物馆](http://www.bmy.com.cn/)
@@ -114,6 +115,8 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 - [RISE and SHINE](https://rise.mpiwg-berlin.mpg.de/)
 ## Projects
 - [Chinese Maritime Customs project | 中国海关近代史研究项目](http://www.bristol.ac.uk/history/customs/)
+- [The International Dunhuang Project: The Silk Road Online](http://idp.bl.uk/)
+- [Warring States Project](http://www.umass.edu/wsp/)
 ## Research Units
 - [Academia Sinica Center for Digital Cultures | 中央研究院數位研究中心](https://ascdc.sinica.edu.tw/index.jsp)
 - [Alliance of Digital Humanities Organization](http://adho.org/)
