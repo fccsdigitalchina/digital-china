@@ -1,7 +1,7 @@
 # Digital China
 A list of digital things related to the field of Chinese studies curated by Kwok-leong Tang, the Digital China Fellow of [the Fairbank Center for Chinese Studies](https://fairbank.fas.harvard.edu/). The list loosely follows the ["Awesome List"](https://github.com/sindresorhus/awesome) style. You are welcome to email your suggestions for change to [Kwok-leong](mailto://kwokleongtang@fas.harvard.edu).
 
-Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier), [Christopher](https://twitter.com/chrisdecou), [Susan Finder](https://twitter.com/SPCmonitor).
+Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier), [Christopher](https://twitter.com/chrisdecou), [Susan Finder](https://twitter.com/SPCmonitor), [Jeff Tharsen](http://home.uchicago.edu/~jcarlsen/index.html)
 
 ## Contents
 - [Research Guides](#research-guides)
@@ -15,6 +15,7 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 - [Digital Collections](#digital-collections)
 - [Digital Museums](#digital-museums)
 - [Platforms](#platforms) 
+- [Projects](#projects)
 - [Research Units](#research-units)
 - [Social Media](#social-media)
 	- [Blogs and Websites](#blogs-and-websites)
@@ -24,6 +25,7 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 - [Related Awesome Lists](#related-awesome-lists)
 
 ## Research Guides
+- [Digital Resources for Sinologists 1.0](http://dissertationreviews.org/archives/9213)
 - [East Asian Art Research Guide (Harvard Library)](https://guides.library.harvard.edu/EastAsianArt)
 - [East Asian Digital Scholarship Lab (at the Harvard-Yenching Library)](https://guides.library.harvard.edu/EADH)
 - [People's Republic of China Legal Research (Harvard Law School Library)](https://guides.library.harvard.edu/ChineseLegalResearch)
@@ -124,6 +126,7 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 - [ChinaFile | 中参馆](http://www.chinafile.com/)
 - [China IPR | 中國知識產權](https://chinaipr.com/)
 - [China Law Translate](https://www.chinalawtranslate.com/en/)
+- [Digital Sinology](https://digitalsinology.org/)
 - [Donald Sturgeon](https://dsturgeon.net/)
 - [NPC Observer](https://npcobserver.com/)
 - [Paul Vierthaler](https://www.pvierth.com/)
