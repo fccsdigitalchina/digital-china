@@ -1,7 +1,7 @@
 # Digital China
 A list of digital things related to the field of Chinese studies curated by Kwok-leong Tang, the Digital China Fellow of [the Fairbank Center for Chinese Studies](https://fairbank.fas.harvard.edu/). The list loosely follows the ["Awesome List"](https://github.com/sindresorhus/awesome) style. You are welcome to email your suggestions for change to [Kwok-leong](mailto://kwokleongtang@fas.harvard.edu).
 
-Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier), [Christopher](https://twitter.com/chrisdecou), [Susan Finder](https://twitter.com/SPCmonitor), [Jeff Tharsen](http://home.uchicago.edu/~jcarlsen/index.html)
+Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier), [Christopher](https://twitter.com/chrisdecou), [Susan Finder](https://twitter.com/SPCmonitor), [Jeff Tharsen](http://home.uchicago.edu/~jcarlsen/index.html), 劉杳(Liu Yao)
 
 ## Contents
 - [Research Guides](#research-guides)
@@ -22,6 +22,7 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 	- [Facebook](#facebook)
 	- [Twitter](#twitter)
 	- [WeChat](#wechat)
+- [Tools](#tools)
 - [Related Awesome Lists](#related-awesome-lists)
 
 ## Research Guides
@@ -33,21 +34,29 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 ## Databases
 ### Databases Catalog
 - [Humanities & Social Science Database Catalog (HUSSCat) | 人文社科資料庫名錄檢索](http://husscat.hss.ntu.edu.tw/xmlui/)
+- [Modern History Databases | 近代史數位資料庫](http://mhdb.mh.sinica.edu.tw/index.php) 
+-- It is a cross databases search engine and gateway to many databases developed by Institute of Modern History, Academia Sinica. Qing Dynasty Memorial Archives(清代奏摺檔案), Firms in Modern China(近代商號資料庫), Ladies' Journal(婦女雜誌資料庫), English-Chinese Dictionary(英華字典資料庫), Hu Shih Archives Search System(胡適檔案資料庫), Qing Dynasty Grain Price Database(清代糧價資料庫), The Modern Annals TIS System(近代春秋TIS系統), Modern Historical Documents Full-Text Database(舊版近代史全文資料庫), Modern Historical Book Compilation Full-text Database(新版近代史全文資料庫), Archive Collection Recall System(檔案館館藏檢索系統), Modern Women Journals Database(近代婦女期刊資料庫), Authorship of Chinese Women's Periodicals(婦女期刊作者研究平台), Modern Urban Tabloid Database(近代城市小報資料庫), Qing Dynasty Official Position Searching System(清季職官表查詢系統), Digital Archive Website of Kuo Ting-yee Library(圖書館數位典藏資料檢索系統), the Library Newspaper and Periodical Data Retrieval System(圖書館報刊資料整合系統), the Integrated Information System on Modern and Contemporary Characters(近代人物資訊整合系統), and Archives Authoritative Names Retrieval System(檔案館人名權威檢索系統).
 ### Text
 - [CBETA | 中華電子佛典協會](http://www.cbeta.org/)
-- [Chinese Text Project | 中國哲學書電子化計劃](https://ctext.org/)
 - [Chinese Ancient Texts Database (CHANT) | 漢達文庫](http://www.chant.org/)
+- [Chinese Text Project | 中國哲學書電子化計劃](https://ctext.org/)
 - [CrossAsia Fulltext Search (XAsia)](https://crossasia.org/service/crossasia-lab/crossasia-itr/)
+- [Database of Ch'ing Palace Memorials and Archives of Grand Council | 清代宮中檔奏摺及軍機處奏摺](http://npmhost.npm.gov.tw/ttscgi/ttswebnpm?@0:0:1:npmmeta::/tts/npmmeta/dblist.htm@@0.22065529270830952)
 - [Guoxuedashi | 国学大师](http://www.guoxuedashi.com/)
 - [Hytung Books | 瀚堂典藏](https://www.hytung.cn/)
 - [Kanseki Repository (Kanripo)](https://www.kanripo.org/)
 - [Scripta Sinica | 漢籍全文資料庫計畫](http://hanchi.ihp.sinica.edu.tw/ihp/hanji.htm)
 - [Textref](https://textref.org/)
-- [大家藝文天地](http://ourartnet.com/)
-- [高校古文獻資源庫](http://rbsc.calis.edu.cn:8086/aopac/jsp/indexXyjg.jsp)
+- [The Archive of the Grand Secretariat | 內閣大庫檔案](http://archive.ihp.sinica.edu.tw/mctkm2/index.html)
 - [全國漢籍データベース | 日本所藏中文古籍數據庫](http://kanji.zinbun.kyoto-u.ac.jp/kanseki?detail)
+- [史记检索平台(南京师范大学)](http://www.langsphere.com/benji/)
+- [國家圖書館古籍與特藏文獻資源](http://rbook2.ncl.edu.tw/)
+- [大家藝文天地](http://ourartnet.com/)
 - [寒泉](http://skqs.lib.ntnu.edu.tw/dragon/)
+- [春秋左氏传检索平台(南京师范大学)](http://www.langsphere.com/zzsk/)
+- [祕籍琳琅--北京大學數字圖書館古文獻資源庫](http://rbdl.calis.edu.cn/aopac/indexold.jsp)
 - [臺灣文獻叢刊資料庫系統](http://tcss.ith.sinica.edu.tw)
+- [高校古文獻資源庫](http://rbsc.calis.edu.cn:8086/aopac/jsp/indexXyjg.jsp)
 ### People
 - [Biographical Dictionary of Chinese Christianity | 華典](http://bdcconline.net/en/)
 - [Biogref](https://biogref.org/)
@@ -56,8 +65,10 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 - [Eminent Chinese of the Ch'ing Period | 清代名人傳略](http://www.dartmouth.edu/~qing/WEB/)
 - [Ming Qing Women's Writings | 明清婦女著作](http://digital.library.mcgill.ca/mingqing/)
 - [Traditions of Exemplary Women | 列女傳](http://www2.iath.virginia.edu/xwomen/)
-- [人名權威人物資料傳記查詢](http://archive.ihp.sinica.edu.tw/ttsweb/html_name/index.php)
 - [中国思想与文化名家数据库](http://www.cnthinkers.com/thinkerweb/)
+- [中國歷代人物圖像數據庫（浙江圖書館）](http://diglweb.zjlib.cn:8081/zjtsg/mingren/index1.htm)
+- [中國歷代墓誌數據庫（浙江大學圖書館）](http://csid.zju.edu.cn/tomb/stone)
+- [人名權威人物資料傳記查詢](http://archive.ihp.sinica.edu.tw/ttsweb/html_name/index.php)
 ### Places
 - [Buddhist Studies Place Authority Databases | 地名規範資料庫（法鼓山）](http://authority.dila.edu.tw/place/)
 - [China Historical GIS](https://sites.fas.harvard.edu/~chgis/)
@@ -79,18 +90,19 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 - [Ming Government Official Titles: the crowd-translation project](https://mingofficialtitles.lib.uci.edu/#/)
 - [清代職官資料庫](http://archive.ihp.sinica.edu.tw/officerc/officerkm2)
 ## Dictionaries
+- [Chinese CogBank Visualization Search](http://cognitivebase.com/)
 - [Chinese-English Dictionary of Modern Usage | 林語堂《當代漢英詞典》](http://humanum.arts.cuhk.edu.hk/Lexis/Lindict/)
 - [Handian | 漢典](https://www.zdic.net/)
 - [MDBG](https://www.mdbg.net/chinese/dictionary)
 - [Moe Dictionary | 萌典](https://www.moedict.tw/)
 - [Pleco](https://www.pleco.com/)
-- [The Etymology of Nôm of Chinese Origin | 漢喃同源辭](http://han-viet.com/) 
 - [The Encyclopedia Dictionary of the Chinese Language | 中文大辭典](http://ap6.pccu.edu.tw/Dictionary/)
-- [重編國語辭典](http://dict.revised.moe.edu.tw/cbdic/)
+- [The Etymology of Nôm of Chinese Origin | 漢喃同源辭](http://han-viet.com/) 
 - [異體字字典](https://dict.variants.moe.edu.tw/)
-- [缺字系統](http://char.iis.sinica.edu.tw/index.htm)
-- [韻典網](https://ytenx.org/)
 - [繁簡姬](https://zhconvert.org/)
+- [缺字系統](http://char.iis.sinica.edu.tw/index.htm)
+- [重編國語辭典](http://dict.revised.moe.edu.tw/cbdic/)
+- [韻典網](https://ytenx.org/)
 ## Digital Collections
 - [Academia Sinica Digital Archives | 中央研究院數位典藏](https://sinica.digitalarchives.tw/)
 - [China Visual Arts Project Archive at University of Westminster](https://westminster-atom.arkivum.net/index.php/cpc)
@@ -153,6 +165,8 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 - [察言观数](https://open.weixin.qq.com/qr/code?username=gh_459d0f34fa03)
 - [量化历史研究](https://mp.weixin.qq.com/mp/qrcode?scene=10000005&size=102&__biz=MzA3MDI1Mzk2MA==&mid=2664009663&idx=1&sn=8c7a75fcf959de29a3e9c352122f4f8b&send_time=)
 - [零壹Lab](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzIxMzYwOTAyMw==&mid=2247483824&idx=2&sn=0b30a0d0c22ab80b09ed686928b3e55a&send_time=)
+## Tools
+- [DH Toychest](http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244243/FrontPage)-A wiki page curated by Alan Liu. A good starting point to search for digital tools.
 ## Related Awesome Lists
 - [Digital History](https://github.com/maehr/awesome-digital-history#readme)
 - [IIIF](https://github.com/IIIF/awesome-iiif)
