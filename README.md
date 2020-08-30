@@ -28,7 +28,6 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 ## Research Guides
 - [Digital Resources for Sinologists 1.0](http://dissertationreviews.org/archives/9213)
 - [East Asian Art Research Guide (Harvard Library)](https://guides.library.harvard.edu/EastAsianArt)
-- [East Asian Digital Scholarship Lab (at the Harvard-Yenching Library)](https://guides.library.harvard.edu/EADH)
 - [People's Republic of China Legal Research (Harvard Law School Library)](https://guides.library.harvard.edu/ChineseLegalResearch)
 - [Research Guide for Chinese Studies (Harvard-Yenching Library)](https://guides.library.harvard.edu/Chinese)
 ## Databases
