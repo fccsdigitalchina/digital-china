@@ -1,5 +1,5 @@
 # Digital China
-A list of digital things related to the field of Chinese studies curated by Kwok-leong Tang, the Digital China Fellow of [the Fairbank Center for Chinese Studies](https://fairbank.fas.harvard.edu/). The list loosely follows the ["Awesome List"](https://github.com/sindresorhus/awesome) style. You are welcome to email your suggestions for change to [Kwok-leong](mailto://kwokleongtang@fas.harvard.edu).
+A list of digital things related to the field of Chinese studies curated by Kwok-leong Tang, the Digital China Fellow of [the Fairbank Center for Chinese Studies](https://fairbank.fas.harvard.edu/) and Yuan-Heng Mao, Ph.D. Candidate of EALC, Harvard University. The list loosely follows the ["Awesome List"](https://github.com/sindresorhus/awesome) style. You are welcome to email your suggestions for change to [Kwok-leong](mailto://kwokleongtang@fas.harvard.edu).
 
 Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier), [Christopher](https://twitter.com/chrisdecou), [Susan Finder](https://twitter.com/SPCmonitor), [Jeff Tharsen](http://home.uchicago.edu/~jcarlsen/index.html), 劉杳(Liu Yao)
 
