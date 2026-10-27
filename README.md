@@ -146,6 +146,7 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 ## Social Media and Blogs
 ### Blogs and Websites
 - [Andrew S. Erickson](http://www.andrewerickson.com/)
+- [China Travel Check](https://gochina.taoliapp.com/) - Verified English field manual for independent travel in mainland China (payments, eSIM, visas, trains).
 - [ChinaFile | 中参馆](http://www.chinafile.com/)
 - [China IPR | 中國知識產權](https://chinaipr.com/)
 - [China Law Translate](https://www.chinalawtranslate.com/en/)
