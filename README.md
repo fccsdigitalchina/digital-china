@@ -129,6 +129,7 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 - [Palladio](http://hdlab.stanford.edu/palladio/)
 - [The ARTFL Project(PhiloLogic4)](https://artfl-project.uchicago.edu/)
 - [中央研究院數位人文研究平臺](https://dh.ascdc.sinica.edu.tw/)
+- [地理中国 / Geo China](https://geo.taoliapp.com/) | Spatiotemporal 3D globe of China's administrative geography with poetry, battles, and local lore
 - [数字人文人工智能平台（华东师范大学）](http://dhrc.ecnu.edu.cn/dhaip)
 - [数字方志集成平台（华东师范大学图书馆）](http://dhrc.ecnu.edu.cn/dhaip)
 ## Portal
