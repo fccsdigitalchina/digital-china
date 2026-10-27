@@ -93,6 +93,7 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 - [Chinese-English Dictionary of Modern Usage | 林語堂《當代漢英詞典》](http://humanum.arts.cuhk.edu.hk/Lexis/Lindict/)
 - [Handian | 漢典](https://www.zdic.net/)
 - [MDBG](https://www.mdbg.net/chinese/dictionary)
+- [Mingzi | 名字](https://mingzi.io/) - Bilingual reference dictionary and cultural platform for Chinese personal names, [Hundred Family Surnames (Baijiaxing | 百家姓)](https://mingzi.io/chinese-names/last-names), character etymology, and naming traditions.
 - [Moe Dictionary | 萌典](https://www.moedict.tw/)
 - [Pleco](https://www.pleco.com/)
 - [The Encyclopedia Dictionary of the Chinese Language | 中文大辭典](http://ap6.pccu.edu.tw/Dictionary/)
