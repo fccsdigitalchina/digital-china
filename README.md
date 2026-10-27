@@ -137,6 +137,7 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 - [Chinese Maritime Customs project | 中国海关近代史研究项目](http://www.bristol.ac.uk/history/customs/)
 - [The International Dunhuang Project: The Silk Road Online](http://idp.bl.uk/)
 - [Warring States Project](http://www.umass.edu/wsp/)
+- [味探中国 / Taste China](https://taste.taoliapp.com/) | Encyclopedia of Chinese GI ingredients with registry metadata, buying tips, cooking notes, and nutrition tables
 ## Research Units
 - [Academia Sinica Center for Digital Cultures | 中央研究院數位研究中心](https://ascdc.sinica.edu.tw/index.jsp)
 - [Alliance of Digital Humanities Organization](http://adho.org/)
